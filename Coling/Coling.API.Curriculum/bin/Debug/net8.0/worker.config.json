@@ -1,0 +1,10 @@
+{
+  "description": {
+    "language": "dotnet-isolated",
+    "extensions": [ ".dll" ],
+    "defaultExecutablePath": "dotnet",
+    "defaultWorkerPath": "Coling.API.Curriculum.dll",
+    "workerIndexing": "true",
+    "canUsePlaceholder": true
+  }
+}
