@@ -1,0 +1,63 @@
+﻿@page "/afiliados"
+@inject IAfiliadosService servicio
+@inject NavigationManager nav
+@inject SweetAlertService SweetAlertService
+
+
+<h3>Listar Afiliados </h3>
+
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th><strong>IdPersona</strong></th>
+                <th><strong>Fecha</strong></th>
+                <th><strong>Codigo</strong></th>
+                <th><strong>Nro Titulo</strong></th>
+                <th><strong>Estado</strong></th>
+                <th><strong></strong></th>
+                <th><strong></strong></th>
+
+            </tr>
+        </thead>
+        @foreach (var item in afiliados)
+        {
+            <tr>
+                <td>@item.IdPersona</td>
+                <td>@item.FechaAfilacion</td>
+                <td>@item.CodigoAfiliado</td>
+                <th><strong>@item.NroTituloProvisional</strong></th>
+                <th><strong>@item.Estado</strong></th>
+                <td><a href="/afiliado/modificar/@item.Id" class="btn btn-primary m-1">Modificar</a></td>
+                <td>
+                    <button class="btn btn-danger" @onclick="(e => Eliminar(item.Id))">Eliminar</button>
+                </td>
+            </tr>
+
+        }
+    </table>
+</div>
+
+@code {
+    public List<Afiliado> afiliados { get; set; } = new List<Afiliado>();
+    protected override async Task OnInitializedAsync()
+    {
+        var respuesta = await servicio.ListaAfiliado();
+        afiliados = respuesta;
+    }
+    private async Task Eliminar(int id)
+    {
+        bool eliminado = await servicio.EliminarAfiliado(id);
+        if (eliminado)
+        {
+            await SweetAlertService.FireAsync("Éxito", "Estudio ha sido eliminada correctamente", SweetAlertIcon.Success);
+            // Actualizamos la lista de instituciones después de eliminar
+            await OnInitializedAsync();
+        }
+        else
+        {
+            await SweetAlertService.FireAsync("Error", "No se pudo eliminar el estudio", SweetAlertIcon.Error);
+        }
+    }
+}

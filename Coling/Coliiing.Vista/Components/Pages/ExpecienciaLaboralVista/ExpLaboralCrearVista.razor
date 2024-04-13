@@ -1,0 +1,34 @@
+﻿@page "/explaboral/crear"
+@inject IExperienciaLaboralService servicioExperiencia
+@inject NavigationManager nav
+@inject SweetAlertService sweetAlertService
+<h3>Crear Exp. Laboral</h3>
+
+<ExpLaboralFormulario @ref="instformulario" explaboral="explaboral" OnValidSubmit="Crear" Cancelar="Navegar"></ExpLaboralFormulario>
+
+@code 
+{
+    private ExperienciaLaboral explaboral = new();
+    private ExpLaboralFormulario? instformulario;
+
+    private async Task Crear()
+    {
+        explaboral.PartitionKey = "Experiencia";
+       // explaboral.FechaInicio = Convert.ToDateTime(explaboral);
+       // explaboral.FechaFinal = Convert.ToDateTime(explaboral);
+        var respuesta = await servicioExperiencia.InsertarExperienciaLaboral(explaboral);
+        if(!respuesta)
+        {
+            await sweetAlertService.FireAsync("Error", "No se pudo guardar", SweetAlertIcon.Error);
+            return;
+        }
+        Navegar();
+    }
+
+    private void Navegar()
+    {
+        instformulario!.formularioPostOk = true;
+        nav.NavigateTo("/explaboral", forceLoad: true);
+    }
+
+}

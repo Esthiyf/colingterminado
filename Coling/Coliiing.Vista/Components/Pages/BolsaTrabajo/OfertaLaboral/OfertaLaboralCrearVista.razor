@@ -1,0 +1,32 @@
+﻿@page "/ofertalaboral/crear"
+@inject IOfertaLaboralService servicioOfertalaboral
+@inject NavigationManager nav
+@inject SweetAlertService sweetAlertService
+
+<h3>Crear Ofertal</h3>
+<OfertaLaboralFormulario @ref="instformulario" ofertalaboral="ofertalaboral" OnValidSubmit="Crear" Cancelar="Navegar"></OfertaLaboralFormulario>
+
+@code {
+    private OfertaLaboral ofertalaboral = new();
+    private OfertaLaboralFormulario? instformulario;
+
+    private async Task Crear()
+    {
+        ofertalaboral.PartitionKey = "OfertaLaboral";
+        var respuesta = await servicioOfertalaboral.InsertarOfertaLaboral(ofertalaboral);
+        if(!respuesta)
+        {
+            await sweetAlertService.FireAsync("Error", "No se pudo guardar", SweetAlertIcon.Error);
+            return;
+        }
+        Navegar();
+    }
+
+    private void Navegar()
+    {
+        instformulario!.formularioPostOk = true;
+        nav.NavigateTo("/ofertalaboral", forceLoad: true);
+    }
+
+
+}

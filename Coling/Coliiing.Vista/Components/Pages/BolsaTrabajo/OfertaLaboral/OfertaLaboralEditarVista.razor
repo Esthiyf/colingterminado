@@ -1,0 +1,48 @@
+﻿@page "/ofertalaboral/modificar/{rowkey}"
+@inject IOfertaLaboralService servicioOfertalaboral
+@inject NavigationManager nav
+@inject SweetAlertService sweetAlertService
+
+
+<h3>Editar Oferta</h3>
+
+
+@if (ofertalaboral != null)
+{
+        <OfertaLaboralFormulario @ref="insform" ofertalaboral="ofertalaboral" OnValidSubmit="Editar" Cancelar="Navegar"></OfertaLaboralFormulario>
+}
+else
+{
+    <p>Cargando...</p>
+}
+@code {
+
+    [Parameter]
+    public string rowkey { get; set; }
+
+    private OfertaLaboral ofertalaboral;
+    private OfertaLaboralFormulario? insform;
+  //  string token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjoiTGF1cmEiLCJyb2wiOiJBZG1pbiIsImVzdGFkbyI6IkFjdGl2byIsImV4cCI6MTcxMjM3OTMxN30.iweCTVGmC81uzRS4VWnDjlZLI0v0BKUTQfi2f0JVdmc";
+    protected override async Task OnInitializedAsync()
+    {
+        ofertalaboral = await servicioOfertalaboral.ObtenerOfertaLaboralById(rowkey);
+    }
+
+    private async Task Editar()
+    {
+
+        var editado = await servicioOfertalaboral.EditarOfertaLaboral(ofertalaboral);
+        if (!editado)
+        {
+            await sweetAlertService.FireAsync("Error", "No se pudo guardar", SweetAlertIcon.Error);
+            return;
+        }
+        Navegar();
+
+    }
+    private void Navegar()
+    {
+        insform!.formularioPostOk = true;
+        nav.NavigateTo("/ofertalaboral", forceLoad: true);
+    }
+}

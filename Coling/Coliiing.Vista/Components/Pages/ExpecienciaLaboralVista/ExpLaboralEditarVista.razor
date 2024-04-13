@@ -1,0 +1,48 @@
+﻿@page "/explaboral/modificar/{rowkey}"
+@inject IExperienciaLaboralService servicioExplaboral
+@inject NavigationManager nav
+@inject SweetAlertService sweetAlertService
+
+
+<h3>Editar Exp. Laboral</h3>
+
+
+@if (explaboral != null)
+{
+        <ExpLaboralFormulario @ref="insform" explaboral="explaboral" OnValidSubmit="Editar" Cancelar="Navegar"></ExpLaboralFormulario>
+}
+else
+{
+    <p>Cargando...</p>
+}
+@code {
+
+    [Parameter]
+    public string rowkey { get; set; }
+
+    private ExperienciaLaboral explaboral;
+    private ExpLaboralFormulario? insform;
+  //  string token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjoiTGF1cmEiLCJyb2wiOiJBZG1pbiIsImVzdGFkbyI6IkFjdGl2byIsImV4cCI6MTcxMjM3OTMxN30.iweCTVGmC81uzRS4VWnDjlZLI0v0BKUTQfi2f0JVdmc";
+    protected override async Task OnInitializedAsync()
+    {
+        explaboral = await servicioExplaboral.ObtenerExperienciaLaboralById(rowkey);
+    }
+
+    private async Task Editar()
+    {
+
+        var editado = await servicioExplaboral.EditarExperienciaLaboral(explaboral);
+        if (!editado)
+        {
+            await sweetAlertService.FireAsync("Error", "No se pudo guardar", SweetAlertIcon.Error);
+            return;
+        }
+        Navegar();
+
+    }
+    private void Navegar()
+    {
+        insform!.formularioPostOk = true;
+        nav.NavigateTo("/explaboral", forceLoad: true);
+    }
+}

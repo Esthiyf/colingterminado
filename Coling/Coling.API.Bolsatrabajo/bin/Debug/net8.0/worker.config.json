@@ -1,0 +1,10 @@
+{
+  "description": {
+    "language": "dotnet-isolated",
+    "extensions": [ ".dll" ],
+    "defaultExecutablePath": "dotnet",
+    "defaultWorkerPath": "Coling.API.Bolsatrabajo.dll",
+    "workerIndexing": "true",
+    "canUsePlaceholder": true
+  }
+}

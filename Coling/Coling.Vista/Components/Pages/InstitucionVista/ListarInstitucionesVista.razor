@@ -1,0 +1,71 @@
+﻿@page "/instituciones"
+
+@inject IInstitucionService servicioInstitucion
+@inject NavigationManager nav
+@inject SweetAlertService SweetAlertService
+
+<h3>Listar Instituciones</h3>
+
+<div class="form-group row">
+    <div class="col-sm-10">
+        <a href="/institucion/crear" class="btn btn-primary m-1">Agregar Nuevo</a>
+    </div>
+</div>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th><strong>Nombre Institucion</strong></th>
+                <th><strong>Direccion</strong></th>
+                <th><strong>Acciones</strong></th>
+            </tr>
+        </thead>
+        @foreach (var item in InstitucionesLista)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Direccion</td>
+                <td>
+                <td><a href="/institucion/modificar/@item.RowKey" class="btn btn-primary m-1">Modificar</a></td>
+
+                <button class="btn btn-danger" @onclick="(e => Eliminar(item.PartitionKey, item.RowKey))">Eliminar</button>
+
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+
+@code {
+    string token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjoiTGF1cmEiLCJyb2wiOiJBZG1pbiIsImVzdGFkbyI6IkFjdGl2byIsImV4cCI6MTcxMjM3OTMxN30.iweCTVGmC81uzRS4VWnDjlZLI0v0BKUTQfi2f0JVdmc";
+
+    public List<Institucion> InstitucionesLista { get; set; } = new List<Institucion>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var respuesta = await servicioInstitucion.ListaInstituciones(token);
+        InstitucionesLista = respuesta;
+    }
+
+    private async Task Eliminar(string partitionKey, string rowKey)
+    {
+        bool eliminado = await servicioInstitucion.EliminarInstitucion(partitionKey, rowKey, token);
+        if (eliminado)
+        {
+            await SweetAlertService.FireAsync("Éxito", "La institución ha sido eliminada correctamente", SweetAlertIcon.Success);
+            // Actualizamos la lista de instituciones después de eliminar
+            await OnInitializedAsync();
+        }
+        else
+        {
+            await SweetAlertService.FireAsync("Error", "No se pudo eliminar la institución", SweetAlertIcon.Error);
+        }
+    }
+    private void Editar(string rowKey)
+    {
+        // Redirigir a la página de edición de institución con el ID de la institución a editar
+        nav.NavigateTo($"/editar-institucion/{rowKey}");
+    }
+   
+}

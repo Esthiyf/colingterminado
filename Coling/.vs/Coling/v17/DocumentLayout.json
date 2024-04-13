@@ -1,0 +1,1670 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.afiliados\\coling.api.afiliados.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|solutionrelative:coling.api.afiliados\\coling.api.afiliados.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.bolsatrabajo\\coling.api.bolsatrabajo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|solutionrelative:coling.api.bolsatrabajo\\coling.api.bolsatrabajo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.afiliados\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|solutionrelative:coling.api.afiliados\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.afiliados\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|solutionrelative:coling.api.afiliados\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\coling.api.curriculum.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\coling.api.curriculum.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62519360-FB44-4674-BB60-215BEA3A6ADA}|Coling.Autentificacion\\Coling.Autentificacion.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.autentificacion\\coling.autentificacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{62519360-FB44-4674-BB60-215BEA3A6ADA}|Coling.Autentificacion\\Coling.Autentificacion.csproj|solutionrelative:coling.autentificacion\\coling.autentificacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\bolsatrabajo\\solicitud\\solicitudlistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\bolsatrabajo\\solicitud\\solicitudlistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\bolsatrabajo\\solicitudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\bolsatrabajo\\solicitudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\bolsatrabajo\\solicitud\\solicitudcrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\bolsatrabajo\\solicitud\\solicitudcrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\bolsatrabajo\\solicitud\\solicitudeditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\bolsatrabajo\\solicitud\\solicitudeditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\bolsatrabajo\\solicitud\\solicitudformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\bolsatrabajo\\solicitud\\solicitudformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.bolsatrabajo\\endpoints\\solicitudfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|solutionrelative:coling.api.bolsatrabajo\\endpoints\\solicitudfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.bolsatrabajo\\contratos\\repositorio\\isolicitudrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|solutionrelative:coling.api.bolsatrabajo\\contratos\\repositorio\\isolicitudrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.shared\\isolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\isolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.bolsatrabajo\\implementacion\\repositorio\\solicitudrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|solutionrelative:coling.api.bolsatrabajo\\implementacion\\repositorio\\solicitudrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.bolsatrabajo\\modelo\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|solutionrelative:coling.api.bolsatrabajo\\modelo\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\modelos\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\modelos\\solicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\bolsatrabajo\\ofertalaboral\\ofertalaborallistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\bolsatrabajo\\ofertalaboral\\ofertalaborallistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\bolsatrabajo\\ofertalaboral\\ofertalaboralformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\bolsatrabajo\\ofertalaboral\\ofertalaboralformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\bolsatrabajo\\ofertalaboral\\ofertalaboralcrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\bolsatrabajo\\ofertalaboral\\ofertalaboralcrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\bolsatrabajo\\ofertalaboralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\bolsatrabajo\\ofertalaboralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.bolsatrabajo\\implementacion\\repositorio\\ofertalaboralrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|solutionrelative:coling.api.bolsatrabajo\\implementacion\\repositorio\\ofertalaboralrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.bolsatrabajo\\endpoints\\ofertalaboralfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|solutionrelative:coling.api.bolsatrabajo\\endpoints\\ofertalaboralfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\bolsatrabajo\\isolicitudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\bolsatrabajo\\isolicitudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\afiliadosvista\\afiliadoslistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\afiliadosvista\\afiliadoslistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\bolsatrabajo\\iofertalaboralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\bolsatrabajo\\iofertalaboralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\bolsatrabajo\\ofertalaboral\\ofertalaboraleditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\bolsatrabajo\\ofertalaboral\\ofertalaboraleditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\modelos\\ofertalaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\modelos\\ofertalaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\profesionvista\\profesionlistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\profesionvista\\profesionlistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.shared\\afiliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\afiliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\personavista\\listarpersonavista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\personavista\\listarpersonavista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\afiliadosvista\\afiliadosformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\afiliadosvista\\afiliadosformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\afiliadosvista\\afiliadoseditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\afiliadosvista\\afiliadoseditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\afiliadosvista\\afiliadoscrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\afiliadosvista\\afiliadoscrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\afiliadoss\\afiliadosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\afiliadoss\\afiliadosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.afiliados\\endpoints\\afiliadofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|solutionrelative:coling.api.afiliados\\endpoints\\afiliadofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\afiliadoss\\iafiliadosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\afiliadoss\\iafiliadosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\personasss\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\personasss\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\personasss\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\personasss\\ipersonaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\profesionvista\\profesionformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\profesionvista\\profesionformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\profesionvista\\profesioneditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\profesionvista\\profesioneditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\profesionvista\\profesioncrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\profesionvista\\profesioncrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\curriculum\\estudiosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\curriculum\\estudiosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\curriculum\\iestudiosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\curriculum\\iestudiosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\modelos\\experiencialaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\modelos\\experiencialaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\expeciencialaboralvista\\explaboralcrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\expeciencialaboralvista\\explaboralcrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\expeciencialaboralvista\\explaborallistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\expeciencialaboralvista\\explaborallistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.shared\\iexperiencialaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\iexperiencialaboral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\expeciencialaboralvista\\explaboralformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\expeciencialaboralvista\\explaboralformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\curriculum\\experiencialaboralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\curriculum\\experiencialaboralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\endpoints\\experiencialaboralfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\endpoints\\experiencialaboralfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\expeciencialaboralvista\\explaboraleditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\expeciencialaboralvista\\explaboraleditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\implementacion\\repositorio\\experiencialaboralrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\implementacion\\repositorio\\experiencialaboralrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\curriculum\\iexperiencialaboralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\curriculum\\iexperiencialaboralservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\modelos\\profesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\modelos\\profesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\modelos\\estudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\modelos\\estudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\implementacion\\repositorio\\profesionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\implementacion\\repositorio\\profesionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.shared\\iprofesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\iprofesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\modelo\\profesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\modelo\\profesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\estudiosvista\\estudioslistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\estudiosvista\\estudioslistarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\estudiosvista\\estudioseditarlista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\estudiosvista\\estudioseditarlista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\estudiosvista\\estudioscrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\estudiosvista\\estudioscrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\curriculum\\profesionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\curriculum\\profesionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\curriculum\\institucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\curriculum\\institucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\curriculum\\iprofesionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\curriculum\\iprofesionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\servicios\\curriculum\\iinstitucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\servicios\\curriculum\\iinstitucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\modelos\\institucionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\modelos\\institucionn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\implementacion\\repositorio\\institucionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\implementacion\\repositorio\\institucionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\contratos\\repositorio\\iinstitucionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\contratos\\repositorio\\iinstitucionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\endpoints\\institucionfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\endpoints\\institucionfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\endpoints\\estudiosfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\endpoints\\estudiosfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\implementacion\\repositorio\\estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\implementacion\\repositorio\\estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\institucionvista\\institucioneditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\institucionvista\\institucioneditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\institucionvista\\institucioncrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\institucionvista\\institucioncrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.shared\\iestudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\iestudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\institucionvista\\listarinstitucionesvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\institucionvista\\listarinstitucionesvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\institucionvista\\institucionformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\institucionvista\\institucionformulario.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\components\\pages\\institucionvista\\institucioncrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\components\\pages\\institucionvista\\institucioncrearvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\servicios\\curriculum\\institucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\servicios\\curriculum\\institucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\modelo\\estudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\modelo\\estudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\components\\pages\\institucionvista\\listarinstitucionesvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\components\\pages\\institucionvista\\listarinstitucionesvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\components\\pages\\institucionvista\\institucioneditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\components\\pages\\institucionvista\\institucioneditarvista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\servicios\\curriculum\\iinstitucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\servicios\\curriculum\\iinstitucionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\components\\pages\\institucionvista\\institucionformulariovista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\components\\pages\\institucionvista\\institucionformulariovista.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.vista\\modelos\\institucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE47D9F-9DD7-4A3C-BF5E-FECB9643A6D8}|Coling.Vista\\Coling.Vista.csproj|solutionrelative:coling.vista\\modelos\\institucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.curriculum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A45DC-90DC-464D-BEA6-430D0EEA8BDA}|Coling.API.Curriculum\\Coling.API.Curriculum.csproj|solutionrelative:coling.api.curriculum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coliiing.vista\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF024926-40FC-42D3-87C0-EB5956B78572}|Coliiing.Vista\\Coliiing.Vista.csproj|solutionrelative:coliiing.vista\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.shared\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.afiliados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|solutionrelative:coling.api.afiliados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.afiliados\\endpoints\\personafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8A81B-6BCF-48EB-A3B1-9A61C3974A07}|Coling.API.Afiliados\\Coling.API.Afiliados.csproj|solutionrelative:coling.api.afiliados\\endpoints\\personafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.shared\\iinstitucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A923EEF4-7EB3-42A6-849F-25451B1DD7A0}|Coling.Shared\\Coling.Shared.csproj|solutionrelative:coling.shared\\iinstitucion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|c:\\users\\david\\desktop\\nuevas tecnologias 2\\practica\\colingserverles-realizado\\coling\\coling.api.bolsatrabajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468EF89E-5FDB-4293-8ED7-8D134818D42F}|Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj|solutionrelative:coling.api.bolsatrabajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Coling.API.Afiliados\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Coling.API.Afiliados\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T18:39:18.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Coling.API.Afiliados\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Coling.API.Afiliados\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T18:39:10.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coling.Autentificacion",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Autentificacion\\Coling.Autentificacion.csproj",
+              "RelativeDocumentMoniker": "Coling.Autentificacion\\Coling.Autentificacion.csproj",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Autentificacion\\Coling.Autentificacion.csproj",
+              "RelativeToolTip": "Coling.Autentificacion\\Coling.Autentificacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T18:37:50.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coling.API.Curriculum",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Coling.API.Curriculum.csproj",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\Coling.API.Curriculum.csproj",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Coling.API.Curriculum.csproj",
+              "RelativeToolTip": "Coling.API.Curriculum\\Coling.API.Curriculum.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T18:37:30.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coling.API.Bolsatrabajo",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj",
+              "RelativeDocumentMoniker": "Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj",
+              "RelativeToolTip": "Coling.API.Bolsatrabajo\\Coling.API.Bolsatrabajo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T18:36:47.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coling.API.Afiliados",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Coling.API.Afiliados.csproj",
+              "RelativeDocumentMoniker": "Coling.API.Afiliados\\Coling.API.Afiliados.csproj",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Coling.API.Afiliados.csproj",
+              "RelativeToolTip": "Coling.API.Afiliados\\Coling.API.Afiliados.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T18:34:47.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SolicitudFormulario.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudFormulario.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudFormulario.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudFormulario.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudFormulario.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:24:52.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SolicitudEditarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudEditarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudEditarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudEditarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudEditarVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:25:52.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SolicitudCrearVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudCrearVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudCrearVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudCrearVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudCrearVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:25:13.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SolicitudService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\BolsaTrabajo\\SolicitudService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\BolsaTrabajo\\SolicitudService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\BolsaTrabajo\\SolicitudService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\BolsaTrabajo\\SolicitudService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwE4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:37:50.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\MauiProgram.cs",
+              "RelativeToolTip": "Coliiing.Vista\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T03:32:15.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SolicitudListarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudListarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudListarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudListarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\Solicitud\\SolicitudListarVista.razor",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:26:17.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:56:47.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISolicitud.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\ISolicitud.cs",
+              "RelativeDocumentMoniker": "Coling.Shared\\ISolicitud.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\ISolicitud.cs",
+              "RelativeToolTip": "Coling.Shared\\ISolicitud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:04:32.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SolicitudRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Implementacion\\Repositorio\\SolicitudRepositorio.cs",
+              "RelativeDocumentMoniker": "Coling.API.Bolsatrabajo\\Implementacion\\Repositorio\\SolicitudRepositorio.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Implementacion\\Repositorio\\SolicitudRepositorio.cs",
+              "RelativeToolTip": "Coling.API.Bolsatrabajo\\Implementacion\\Repositorio\\SolicitudRepositorio.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:02:47.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Solicitud.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Modelo\\Solicitud.cs",
+              "RelativeDocumentMoniker": "Coling.API.Bolsatrabajo\\Modelo\\Solicitud.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Modelo\\Solicitud.cs",
+              "RelativeToolTip": "Coling.API.Bolsatrabajo\\Modelo\\Solicitud.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:03:14.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SolicitudFunction.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Endpoints\\SolicitudFunction.cs",
+              "RelativeDocumentMoniker": "Coling.API.Bolsatrabajo\\Endpoints\\SolicitudFunction.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Endpoints\\SolicitudFunction.cs",
+              "RelativeToolTip": "Coling.API.Bolsatrabajo\\Endpoints\\SolicitudFunction.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwB0AAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:04:09.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISolicitudRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Contratos\\Repositorio\\ISolicitudRepositorio.cs",
+              "RelativeDocumentMoniker": "Coling.API.Bolsatrabajo\\Contratos\\Repositorio\\ISolicitudRepositorio.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Contratos\\Repositorio\\ISolicitudRepositorio.cs",
+              "RelativeToolTip": "Coling.API.Bolsatrabajo\\Contratos\\Repositorio\\ISolicitudRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:04:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OfertaLaboralListarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralListarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralListarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralListarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralListarVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:22:43.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OfertaLaboralCrearVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralCrearVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralCrearVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralCrearVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralCrearVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:21:45.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OfertaLaboralFormulario.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralFormulario.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralFormulario.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralFormulario.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralFormulario.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:21:16.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Solicitud.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\Solicitud.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Modelos\\Solicitud.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\Solicitud.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Modelos\\Solicitud.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:38:24.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OfertaLaboralEditarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralEditarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralEditarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralEditarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\BolsaTrabajo\\OfertaLaboral\\OfertaLaboralEditarVista.razor",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T09:22:10.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OfertaLaboralRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Implementacion\\Repositorio\\OfertaLaboralRepositorio.cs",
+              "RelativeDocumentMoniker": "Coling.API.Bolsatrabajo\\Implementacion\\Repositorio\\OfertaLaboralRepositorio.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Implementacion\\Repositorio\\OfertaLaboralRepositorio.cs",
+              "RelativeToolTip": "Coling.API.Bolsatrabajo\\Implementacion\\Repositorio\\OfertaLaboralRepositorio.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:57:20.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OfertaLaboralFunction.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Endpoints\\OfertaLaboralFunction.cs",
+              "RelativeDocumentMoniker": "Coling.API.Bolsatrabajo\\Endpoints\\OfertaLaboralFunction.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Endpoints\\OfertaLaboralFunction.cs",
+              "RelativeToolTip": "Coling.API.Bolsatrabajo\\Endpoints\\OfertaLaboralFunction.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:36:04.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OfertaLaboralService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\BolsaTrabajo\\OfertaLaboralService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\BolsaTrabajo\\OfertaLaboralService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\BolsaTrabajo\\OfertaLaboralService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\BolsaTrabajo\\OfertaLaboralService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:27:50.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISolicitudService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\BolsaTrabajo\\ISolicitudService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\BolsaTrabajo\\ISolicitudService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\BolsaTrabajo\\ISolicitudService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\BolsaTrabajo\\ISolicitudService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:38:10.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOfertaLaboralService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\BolsaTrabajo\\IOfertaLaboralService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\BolsaTrabajo\\IOfertaLaboralService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\BolsaTrabajo\\IOfertaLaboralService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\BolsaTrabajo\\IOfertaLaboralService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:28:39.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AfiliadosListarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosListarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosListarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosListarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosListarVista.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:53:41.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OfertaLaboral.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\OfertaLaboral.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Modelos\\OfertaLaboral.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\OfertaLaboral.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Modelos\\OfertaLaboral.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:28:50.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProfesionListarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionListarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionListarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionListarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionListarVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:41:31.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Afiliado.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\Afiliado.cs",
+              "RelativeDocumentMoniker": "Coling.Shared\\Afiliado.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\Afiliado.cs",
+              "RelativeToolTip": "Coling.Shared\\Afiliado.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:57:25.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ListarPersonaVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\PersonaVista\\ListarPersonaVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\PersonaVista\\ListarPersonaVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\PersonaVista\\ListarPersonaVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\PersonaVista\\ListarPersonaVista.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T03:25:55.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AfiliadosFormulario.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosFormulario.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosFormulario.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosFormulario.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosFormulario.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:54:35.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AfiliadosEditarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosEditarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosEditarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosEditarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosEditarVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:54:19.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AfiliadosCrearVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosCrearVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosCrearVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosCrearVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\AfiliadosVista\\AfiliadosCrearVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:54:01.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AfiliadoFunction.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Endpoints\\AfiliadoFunction.cs",
+              "RelativeDocumentMoniker": "Coling.API.Afiliados\\Endpoints\\AfiliadoFunction.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Endpoints\\AfiliadoFunction.cs",
+              "RelativeToolTip": "Coling.API.Afiliados\\Endpoints\\AfiliadoFunction.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:48:26.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IAfiliadosService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Afiliadoss\\IAfiliadosService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Afiliadoss\\IAfiliadosService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Afiliadoss\\IAfiliadosService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Afiliadoss\\IAfiliadosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:56:47.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AfiliadosService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Afiliadoss\\AfiliadosService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Afiliadoss\\AfiliadosService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Afiliadoss\\AfiliadosService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Afiliadoss\\AfiliadosService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwEEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:56:23.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Personasss\\PersonaService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Personasss\\PersonaService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Personasss\\PersonaService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Personasss\\PersonaService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T03:00:51.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\_Imports.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:36:06.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IPersonaservice.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Personasss\\IPersonaservice.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Personasss\\IPersonaservice.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Personasss\\IPersonaservice.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Personasss\\IPersonaservice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T03:01:09.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProfesionFormulario.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionFormulario.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionFormulario.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionFormulario.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionFormulario.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:41:10.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProfesionEditarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionEditarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionEditarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionEditarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionEditarVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:42:09.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProfesionCrearVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionCrearVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionCrearVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionCrearVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\ProfesionVista\\ProfesionCrearVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:41:49.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EstudiosService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\EstudiosService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Curriculum\\EstudiosService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\EstudiosService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Curriculum\\EstudiosService.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:31:13.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ExpLaboralCrearVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralCrearVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralCrearVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralCrearVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralCrearVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:10:17.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ExperienciaLaboral.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\ExperienciaLaboral.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Modelos\\ExperienciaLaboral.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\ExperienciaLaboral.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Modelos\\ExperienciaLaboral.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:30:40.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IEstudiosService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\IEstudiosService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Curriculum\\IEstudiosService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\IEstudiosService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Curriculum\\IEstudiosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:31:31.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IExperienciaLaboral.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\IExperienciaLaboral.cs",
+              "RelativeDocumentMoniker": "Coling.Shared\\IExperienciaLaboral.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\IExperienciaLaboral.cs",
+              "RelativeToolTip": "Coling.Shared\\IExperienciaLaboral.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:08:57.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ExpLaboralListarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralListarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralListarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralListarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralListarVista.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:11:09.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ExpLaboralFormulario.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralFormulario.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralFormulario.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralFormulario.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralFormulario.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:09:41.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ExperienciaLaboralService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\ExperienciaLaboralService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Curriculum\\ExperienciaLaboralService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\ExperienciaLaboralService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Curriculum\\ExperienciaLaboralService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwDMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:31:50.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ExperienciaLaboralFunction.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\EndPoints\\ExperienciaLaboralFunction.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\EndPoints\\ExperienciaLaboralFunction.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\EndPoints\\ExperienciaLaboralFunction.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\EndPoints\\ExperienciaLaboralFunction.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:01:39.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ExpLaboralEditarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralEditarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralEditarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralEditarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\ExpecienciaLaboralVista\\ExpLaboralEditarVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:10:42.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ExperienciaLaboralRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Implementacion\\Repositorio\\ExperienciaLaboralRepositorio.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\Implementacion\\Repositorio\\ExperienciaLaboralRepositorio.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Implementacion\\Repositorio\\ExperienciaLaboralRepositorio.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\Implementacion\\Repositorio\\ExperienciaLaboralRepositorio.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:16:20.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IExperienciaLaboralService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\IExperienciaLaboralService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Curriculum\\IExperienciaLaboralService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\IExperienciaLaboralService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Curriculum\\IExperienciaLaboralService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:32:47.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IProfesion.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\IProfesion.cs",
+              "RelativeDocumentMoniker": "Coling.Shared\\IProfesion.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\IProfesion.cs",
+              "RelativeToolTip": "Coling.Shared\\IProfesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:11:05.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProfesionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Implementacion\\Repositorio\\ProfesionRepositorio.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\Implementacion\\Repositorio\\ProfesionRepositorio.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Implementacion\\Repositorio\\ProfesionRepositorio.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\Implementacion\\Repositorio\\ProfesionRepositorio.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:55:35.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Estudios.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\Estudios.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Modelos\\Estudios.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\Estudios.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Modelos\\Estudios.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:30:20.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Profesion.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\Profesion.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Modelos\\Profesion.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\Profesion.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Modelos\\Profesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:26:05.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Profesion.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Modelo\\Profesion.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\Modelo\\Profesion.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Modelo\\Profesion.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\Modelo\\Profesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:10:48.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EstudiosListarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosListarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosListarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosListarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosListarVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T02:27:51.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EstudiosEditarLista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosEditarLista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosEditarLista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosEditarLista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosEditarLista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T02:28:20.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProfesionService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\ProfesionService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Curriculum\\ProfesionService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\ProfesionService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Curriculum\\ProfesionService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAzwFMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:26:24.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EstudiosCrearVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosCrearVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosCrearVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosCrearVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\EstudiosVista\\EstudiosCrearVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T02:27:23.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IProfesionService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\IProfesionService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Curriculum\\IProfesionService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\IProfesionService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Curriculum\\IProfesionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:26:41.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IInstitucionService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\IInstitucionService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Curriculum\\IInstitucionService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\IInstitucionService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Curriculum\\IInstitucionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:29:38.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "InstitucionService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\InstitucionService.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Servicios\\Curriculum\\InstitucionService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Servicios\\Curriculum\\InstitucionService.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Servicios\\Curriculum\\InstitucionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:22:17.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Institucionn.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\Institucionn.cs",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Modelos\\Institucionn.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Modelos\\Institucionn.cs",
+              "RelativeToolTip": "Coliiing.Vista\\Modelos\\Institucionn.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:16:37.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "InstitucionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Implementacion\\Repositorio\\InstitucionRepositorio.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\Implementacion\\Repositorio\\InstitucionRepositorio.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Implementacion\\Repositorio\\InstitucionRepositorio.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\Implementacion\\Repositorio\\InstitucionRepositorio.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:05:26.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IInstitucionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Contratos\\Repositorio\\IInstitucionRepositorio.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\Contratos\\Repositorio\\IInstitucionRepositorio.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Contratos\\Repositorio\\IInstitucionRepositorio.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\Contratos\\Repositorio\\IInstitucionRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:16:28.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "InstitucionFunction.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\EndPoints\\InstitucionFunction.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\EndPoints\\InstitucionFunction.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\EndPoints\\InstitucionFunction.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\EndPoints\\InstitucionFunction.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwJsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:17:08.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:00:57.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T04:10:40.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "EstudiosFunction.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\EndPoints\\EstudiosFunction.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\EndPoints\\EstudiosFunction.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\EndPoints\\EstudiosFunction.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\EndPoints\\EstudiosFunction.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:48:07.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "InstitucionCrearVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionCrearVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionCrearVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionCrearVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionCrearVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T19:19:14.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "EstudiosRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Implementacion\\Repositorio\\EstudiosRepositorio.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\Implementacion\\Repositorio\\EstudiosRepositorio.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Implementacion\\Repositorio\\EstudiosRepositorio.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\Implementacion\\Repositorio\\EstudiosRepositorio.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:03:48.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "InstitucionEditarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionEditarVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionEditarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionEditarVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionEditarVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:05:03.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IEstudios.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\IEstudios.cs",
+              "RelativeDocumentMoniker": "Coling.Shared\\IEstudios.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\IEstudios.cs",
+              "RelativeToolTip": "Coling.Shared\\IEstudios.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:33:39.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ListarInstitucionesVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\InstitucionVista\\ListarInstitucionesVista.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\InstitucionVista\\ListarInstitucionesVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\InstitucionVista\\ListarInstitucionesVista.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\InstitucionVista\\ListarInstitucionesVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:19:08.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Routes.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T03:27:45.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "InstitucionFormulario.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionFormulario.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionFormulario.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionFormulario.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\InstitucionVista\\InstitucionFormulario.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T16:24:25.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "InstitucionCrearVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionCrearVista.razor",
+              "RelativeDocumentMoniker": "Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionCrearVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionCrearVista.razor",
+              "RelativeToolTip": "Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionCrearVista.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T16:11:26.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "InstitucionService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Servicios\\Curriculum\\InstitucionService.cs",
+              "RelativeDocumentMoniker": "Coling.Vista\\Servicios\\Curriculum\\InstitucionService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Servicios\\Curriculum\\InstitucionService.cs",
+              "RelativeToolTip": "Coling.Vista\\Servicios\\Curriculum\\InstitucionService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:21:55.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Estudios.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Modelo\\Estudios.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\Modelo\\Estudios.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Modelo\\Estudios.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\Modelo\\Estudios.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T02:33:12.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ListarInstitucionesVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\InstitucionVista\\ListarInstitucionesVista.razor",
+              "RelativeDocumentMoniker": "Coling.Vista\\Components\\Pages\\InstitucionVista\\ListarInstitucionesVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\InstitucionVista\\ListarInstitucionesVista.razor",
+              "RelativeToolTip": "Coling.Vista\\Components\\Pages\\InstitucionVista\\ListarInstitucionesVista.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:34:53.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "InstitucionEditarVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionEditarVista.razor",
+              "RelativeDocumentMoniker": "Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionEditarVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionEditarVista.razor",
+              "RelativeToolTip": "Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionEditarVista.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:07:37.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Coling.Vista\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Coling.Vista\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:32:00.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IInstitucionService.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Servicios\\Curriculum\\IInstitucionService.cs",
+              "RelativeDocumentMoniker": "Coling.Vista\\Servicios\\Curriculum\\IInstitucionService.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Servicios\\Curriculum\\IInstitucionService.cs",
+              "RelativeToolTip": "Coling.Vista\\Servicios\\Curriculum\\IInstitucionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:21:57.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Coling.Vista\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\_Imports.razor",
+              "RelativeToolTip": "Coling.Vista\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:23:42.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Coling.Vista\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Routes.razor",
+              "RelativeToolTip": "Coling.Vista\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:24:23.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Coling.Vista\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\MauiProgram.cs",
+              "RelativeToolTip": "Coling.Vista\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:23:21.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Coling.Vista\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Coling.Vista\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:23:14.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "InstitucionFormularioVista.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionFormularioVista.razor",
+              "RelativeDocumentMoniker": "Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionFormularioVista.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionFormularioVista.razor",
+              "RelativeToolTip": "Coling.Vista\\Components\\Pages\\InstitucionVista\\InstitucionFormularioVista.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:07:31.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Institucion.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Modelos\\Institucion.cs",
+              "RelativeDocumentMoniker": "Coling.Vista\\Modelos\\Institucion.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Vista\\Modelos\\Institucion.cs",
+              "RelativeToolTip": "Coling.Vista\\Modelos\\Institucion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:03:36.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Program.cs",
+              "RelativeDocumentMoniker": "Coling.API.Curriculum\\Program.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Curriculum\\Program.cs",
+              "RelativeToolTip": "Coling.API.Curriculum\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBZwBUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T23:51:49.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Coliiing.Vista\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Coliiing.Vista\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T03:39:50.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\Persona.cs",
+              "RelativeDocumentMoniker": "Coling.Shared\\Persona.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\Persona.cs",
+              "RelativeToolTip": "Coling.Shared\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T03:27:50.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "PersonaFunction.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Endpoints\\PersonaFunction.cs",
+              "RelativeDocumentMoniker": "Coling.API.Afiliados\\Endpoints\\PersonaFunction.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Endpoints\\PersonaFunction.cs",
+              "RelativeToolTip": "Coling.API.Afiliados\\Endpoints\\PersonaFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T03:22:06.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Program.cs",
+              "RelativeDocumentMoniker": "Coling.API.Afiliados\\Program.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Afiliados\\Program.cs",
+              "RelativeToolTip": "Coling.API.Afiliados\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:06:54.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "IInstitucion.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\IInstitucion.cs",
+              "RelativeDocumentMoniker": "Coling.Shared\\IInstitucion.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.Shared\\IInstitucion.cs",
+              "RelativeToolTip": "Coling.Shared\\IInstitucion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:16:56.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Program.cs",
+              "RelativeDocumentMoniker": "Coling.API.Bolsatrabajo\\Program.cs",
+              "ToolTip": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coling.API.Bolsatrabajo\\Program.cs",
+              "RelativeToolTip": "Coling.API.Bolsatrabajo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:53:03.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
