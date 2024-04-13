@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Coliiing.Vista.styles.css",
+      "PackagePath": "staticwebassets\\Coliiing.Vista.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\DAVID\\Desktop\\Nuevas Tecnologias 2\\practica\\colingserverles-realizado\\Coling\\Coliiing.Vista\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.Coliiing.Vista.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.Coliiing.Vista.props",
+      "PackagePath": "build\\Coliiing.Vista.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Coliiing.Vista.props",
+      "PackagePath": "buildMultiTargeting\\Coliiing.Vista.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.Coliiing.Vista.props",
+      "PackagePath": "buildTransitive\\Coliiing.Vista.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

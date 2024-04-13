@@ -1,0 +1,81 @@
+﻿@inject SweetAlertService sweet
+
+<h3>Formulario</h3>
+<NavigationLock OnBeforeInternalNavigation="AntesDeNavegarInternamente" />
+<EditForm EditContext="contextoEdicion" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="mb-3">
+        <label>Institucion:</label>
+        <InputText class="form-control" @bind-Value="@explaboral.IdInstitucion"></InputText>
+        <ValidationMessage For="@(()=>explaboral.IdInstitucion)"></ValidationMessage>
+    </div>
+    <div class="mb-3">
+        <label>Cargo:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@explaboral.CargoTitulo"></InputText>
+            <ValidationMessage For="@(()=>explaboral.CargoTitulo)"></ValidationMessage>
+        </div>
+
+    </div>
+    <div class="mb-3">
+        <label>Estado:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@explaboral.Estado"></InputText>
+            <ValidationMessage For="@(()=>explaboral.Estado)"></ValidationMessage>
+        </div>
+
+    </div>
+
+    <button class="btn btn-primary" type="submit">Guardar</button>
+    <button class="btn btn-primary" @onclick="Cancelar">Cancelar</button>
+
+</EditForm>
+
+@code {
+    private EditContext contextoEdicion = null;
+    [Parameter]
+    [EditorRequired]
+    public ExperienciaLaboral explaboral { get; set; } = null;
+
+
+    [Parameter]
+    [EditorRequired]
+    public EventCallback OnValidSubmit { get; set; }
+
+    [Parameter]
+    [EditorRequired]
+    public EventCallback Cancelar { get; set; }
+
+    public bool formularioPostOk { get; set; }
+
+    protected override void OnInitialized()
+    {
+        contextoEdicion = new(explaboral);
+    }
+    private async Task AntesDeNavegarInternamente(LocationChangingContext contexto)
+    {
+        var formularioModificado = contextoEdicion.IsModified();
+
+        if (!formularioModificado || formularioPostOk)
+        {
+            return;
+        }
+
+        var result = await sweet.FireAsync(new SweetAlertOptions
+            {
+                Title = "Confirmacion",
+                Text = "Desea abandonar esta pantalla? Perdera los cambios",
+                Icon = SweetAlertIcon.Warning,
+                ShowCancelButton = true,
+                CancelButtonText = "No",
+                ConfirmButtonText = "Si"
+            });
+
+        var confirm = !string.IsNullOrEmpty(result.Value);
+        if (confirm)
+            return;
+
+        contexto.PreventNavigation();
+    }
+
+}

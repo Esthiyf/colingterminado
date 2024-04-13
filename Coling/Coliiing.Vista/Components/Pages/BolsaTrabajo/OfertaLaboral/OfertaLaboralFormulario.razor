@@ -1,0 +1,100 @@
+﻿@inject SweetAlertService sweet
+
+<h3>Formulario</h3>
+<NavigationLock OnBeforeInternalNavigation="AntesDeNavegarInternamente" />
+<EditForm EditContext="contextoEdicion" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator />
+    <div class="mb-3">
+        <label>Institucion:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@ofertalaboral.Institucion"></InputText>
+            <ValidationMessage For="@(()=>ofertalaboral.Institucion)"></ValidationMessage>
+        </div>
+
+    </div>
+    <div class="mb-3">
+        <label>Descripcion:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@ofertalaboral.Descripcion"></InputText>
+            <ValidationMessage For="@(()=>ofertalaboral.Descripcion)"></ValidationMessage>
+        </div>
+
+    </div>
+    <div class="mb-3">
+        <label>Cargo:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@ofertalaboral.Cargo"></InputText>
+            <ValidationMessage For="@(()=>ofertalaboral.Cargo)"></ValidationMessage>
+        </div>
+
+    </div>
+    <div class="mb-3">
+        <label>Contrato:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@ofertalaboral.Contrato"></InputText>
+            <ValidationMessage For="@(()=>ofertalaboral.Contrato)"></ValidationMessage>
+        </div>
+
+    </div>
+    <div class="mb-3">
+        <label>Area:</label>
+        <div>
+            <InputText class="form-control" @bind-Value="@ofertalaboral.Area"></InputText>
+            <ValidationMessage For="@(()=>ofertalaboral.Area)"></ValidationMessage>
+        </div>
+
+    </div>
+
+    <button class="btn btn-primary" type="submit">Guardar</button>
+    <button class="btn btn-primary" @onclick="Cancelar">Cancelar</button>
+
+</EditForm>
+
+@code {
+    private EditContext contextoEdicion = null;
+    [Parameter]
+    [EditorRequired]
+    public OfertaLaboral ofertalaboral { get; set; } = null;
+
+
+    [Parameter]
+    [EditorRequired]
+    public EventCallback OnValidSubmit { get; set; }
+
+    [Parameter]
+    [EditorRequired]
+    public EventCallback Cancelar { get; set; }
+
+    public bool formularioPostOk { get; set; }
+
+    protected override void OnInitialized()
+    {
+        contextoEdicion = new(ofertalaboral);
+    }
+    private async Task AntesDeNavegarInternamente(LocationChangingContext contexto)
+    {
+        var formularioModificado = contextoEdicion.IsModified();
+
+        if (!formularioModificado || formularioPostOk)
+        {
+            return;
+        }
+
+        var result = await sweet.FireAsync(new SweetAlertOptions
+            {
+                Title = "Confirmacion",
+                Text = "Desea abandonar esta pantalla? Perdera los cambios",
+                Icon = SweetAlertIcon.Warning,
+                ShowCancelButton = true,
+                CancelButtonText = "No",
+                ConfirmButtonText = "Si"
+            });
+
+        var confirm = !string.IsNullOrEmpty(result.Value);
+        if (confirm)
+            return;
+
+        contexto.PreventNavigation();
+    }
+
+}

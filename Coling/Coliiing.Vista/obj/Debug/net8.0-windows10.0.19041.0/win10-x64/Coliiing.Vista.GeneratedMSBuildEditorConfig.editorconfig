@@ -1,0 +1,285 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Coliiing.Vista
+build_property.RootNamespace = Coliiing.Vista
+build_property.ProjectDir = C:\Users\DAVID\Desktop\Nuevas Tecnologias 2\practica\colingserverles-realizado\Coling\Coliiing.Vista\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DAVID\Desktop\Nuevas Tecnologias 2\practica\colingserverles-realizado\Coling\Coliiing.Vista
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Coliiing.Vista.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Coliiing.Vista.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/AfiliadosVista/AfiliadosCrearVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZmlsaWFkb3NWaXN0YVxBZmlsaWFkb3NDcmVhclZpc3RhLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/AfiliadosVista/AfiliadosEditarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZmlsaWFkb3NWaXN0YVxBZmlsaWFkb3NFZGl0YXJWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/AfiliadosVista/AfiliadosFormulario.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZmlsaWFkb3NWaXN0YVxBZmlsaWFkb3NGb3JtdWxhcmlvLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/AfiliadosVista/AfiliadosListarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZmlsaWFkb3NWaXN0YVxBZmlsaWFkb3NMaXN0YXJWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/BolsaTrabajo/OfertaLaboral/OfertaLaboralCrearVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb2xzYVRyYWJham9cT2ZlcnRhTGFib3JhbFxPZmVydGFMYWJvcmFsQ3JlYXJWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/BolsaTrabajo/OfertaLaboral/OfertaLaboralEditarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb2xzYVRyYWJham9cT2ZlcnRhTGFib3JhbFxPZmVydGFMYWJvcmFsRWRpdGFyVmlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/BolsaTrabajo/OfertaLaboral/OfertaLaboralFormulario.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb2xzYVRyYWJham9cT2ZlcnRhTGFib3JhbFxPZmVydGFMYWJvcmFsRm9ybXVsYXJpby5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/BolsaTrabajo/OfertaLaboral/OfertaLaboralListarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb2xzYVRyYWJham9cT2ZlcnRhTGFib3JhbFxPZmVydGFMYWJvcmFsTGlzdGFyVmlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/BolsaTrabajo/Solicitud/SolicitudCrearVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb2xzYVRyYWJham9cU29saWNpdHVkXFNvbGljaXR1ZENyZWFyVmlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/BolsaTrabajo/Solicitud/SolicitudEditarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb2xzYVRyYWJham9cU29saWNpdHVkXFNvbGljaXR1ZEVkaXRhclZpc3RhLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/BolsaTrabajo/Solicitud/SolicitudFormulario.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb2xzYVRyYWJham9cU29saWNpdHVkXFNvbGljaXR1ZEZvcm11bGFyaW8ucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/BolsaTrabajo/Solicitud/SolicitudListarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb2xzYVRyYWJham9cU29saWNpdHVkXFNvbGljaXR1ZExpc3RhclZpc3RhLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/EstudiosVista/EstudioFormulario.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFc3R1ZGlvc1Zpc3RhXEVzdHVkaW9Gb3JtdWxhcmlvLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/EstudiosVista/EstudiosCrearVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFc3R1ZGlvc1Zpc3RhXEVzdHVkaW9zQ3JlYXJWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/EstudiosVista/EstudiosEditarLista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFc3R1ZGlvc1Zpc3RhXEVzdHVkaW9zRWRpdGFyTGlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/EstudiosVista/EstudiosListarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFc3R1ZGlvc1Zpc3RhXEVzdHVkaW9zTGlzdGFyVmlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/ExpecienciaLaboralVista/ExpLaboralCrearVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeHBlY2llbmNpYUxhYm9yYWxWaXN0YVxFeHBMYWJvcmFsQ3JlYXJWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/ExpecienciaLaboralVista/ExpLaboralEditarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeHBlY2llbmNpYUxhYm9yYWxWaXN0YVxFeHBMYWJvcmFsRWRpdGFyVmlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/ExpecienciaLaboralVista/ExpLaboralFormulario.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeHBlY2llbmNpYUxhYm9yYWxWaXN0YVxFeHBMYWJvcmFsRm9ybXVsYXJpby5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/ExpecienciaLaboralVista/ExpLaboralListarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeHBlY2llbmNpYUxhYm9yYWxWaXN0YVxFeHBMYWJvcmFsTGlzdGFyVmlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/InstitucionVista/InstitucionCrearVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0aXR1Y2lvblZpc3RhXEluc3RpdHVjaW9uQ3JlYXJWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/InstitucionVista/InstitucionEditarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0aXR1Y2lvblZpc3RhXEluc3RpdHVjaW9uRWRpdGFyVmlzdGEucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/InstitucionVista/InstitucionFormulario.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0aXR1Y2lvblZpc3RhXEluc3RpdHVjaW9uRm9ybXVsYXJpby5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/InstitucionVista/ListarInstitucionesVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0aXR1Y2lvblZpc3RhXExpc3Rhckluc3RpdHVjaW9uZXNWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/PersonaVista/ListarPersonaVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hVmlzdGFcTGlzdGFyUGVyc29uYVZpc3RhLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/ProfesionVista/ProfesionCrearVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9mZXNpb25WaXN0YVxQcm9mZXNpb25DcmVhclZpc3RhLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/ProfesionVista/ProfesionEditarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9mZXNpb25WaXN0YVxQcm9mZXNpb25FZGl0YXJWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/ProfesionVista/ProfesionFormulario.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9mZXNpb25WaXN0YVxQcm9mZXNpb25Gb3JtdWxhcmlvLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/ProfesionVista/ProfesionListarVista.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9mZXNpb25WaXN0YVxQcm9mZXNpb25MaXN0YXJWaXN0YS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Routes.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/_Imports.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-whjt86pm5j
+
+[C:/Users/DAVID/Desktop/Nuevas Tecnologias 2/practica/colingserverles-realizado/Coling/Coliiing.Vista/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-h3xiowvn0u

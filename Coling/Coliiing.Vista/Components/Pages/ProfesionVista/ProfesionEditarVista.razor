@@ -1,0 +1,48 @@
+﻿@page "/profesion/modificar/{rowkey}"
+@inject IProfesionService servicioProfesion
+@inject NavigationManager nav
+@inject SweetAlertService sweetAlertService
+
+
+<h3>Editar Profesion</h3>
+
+
+@if (profesion != null)
+{
+        <ProfesionFormulario @ref="insform" profesion="profesion" OnValidSubmit="Editar" Cancelar="Navegar"></ProfesionFormulario>
+}
+else
+{
+    <p>Cargando...</p>
+}
+@code {
+
+    [Parameter]
+    public string rowkey { get; set; }
+
+    private Profesion profesion;
+    private ProfesionFormulario? insform;
+  //  string token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjoiTGF1cmEiLCJyb2wiOiJBZG1pbiIsImVzdGFkbyI6IkFjdGl2byIsImV4cCI6MTcxMjM3OTMxN30.iweCTVGmC81uzRS4VWnDjlZLI0v0BKUTQfi2f0JVdmc";
+    protected override async Task OnInitializedAsync()
+    {
+        profesion = await servicioProfesion.ObtenerProfesionById(rowkey);
+    }
+
+    private async Task Editar()
+    {
+
+        var editado = await servicioProfesion.EditarProfesion(profesion);
+        if (!editado)
+        {
+            await sweetAlertService.FireAsync("Error", "No se pudo guardar", SweetAlertIcon.Error);
+            return;
+        }
+        Navegar();
+
+    }
+    private void Navegar()
+    {
+        insform!.formularioPostOk = true;
+        nav.NavigateTo("/profesion", forceLoad: true);
+    }
+}

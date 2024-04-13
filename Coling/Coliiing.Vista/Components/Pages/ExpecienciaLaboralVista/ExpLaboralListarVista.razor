@@ -1,0 +1,82 @@
+﻿@page "/explaboral"
+@inject IExperienciaLaboralService servicioExplaboral
+@inject NavigationManager nav
+@inject SweetAlertService SweetAlertService
+
+
+
+<h3>Listar Exp. Laboral</h3>
+
+<div class="form-group row">
+    <div class="col-sm-10">
+        <a href="/explaboral/crear" class="btn btn-primary m-1">Agregar Nuevo</a>
+    </div>
+</div>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th><strong>Institucion</strong></th>
+                <th><strong>Cargo</strong></th>
+                <th><strong>Estado</strong></th>
+                <th><strong>Fecha</strong></th>
+                <th><strong></strong></th>
+                <th><strong></strong></th>
+            </tr>
+        </thead>
+        @foreach (var item in explaboral)
+        {
+            <tr>
+                <td>@item.IdInstitucion</td>
+                <td>@item.CargoTitulo</td>
+                <td>@item.Estado</td>
+                <td>@item.FechaInicio</td>
+                <td><a href="/explaboral/modificar/@item.RowKey" class="btn btn-primary m-1">Modificar</a></td>
+                <td>
+                    <button class="btn btn-danger" @onclick="(e => Eliminar(item.PartitionKey, item.RowKey))">Eliminar</button>
+                </td>
+            </tr>
+
+        }
+    </table>
+</div>
+
+@code {
+
+    [Parameter]
+    public string rowkey { get; set; }
+    [Parameter]
+    public string partitionkey { get; set; }
+
+    public List<ExperienciaLaboral> explaboral { get; set; } = new List<ExperienciaLaboral>();
+    //public bool elin { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+
+        var respuesta = await servicioExplaboral.ListaExperienciaLaboral();
+        explaboral = respuesta;
+
+    }
+
+    private async Task Eliminar(string partitionKey, string rowKey)
+    {
+        bool eliminado = await servicioExplaboral.EliminarExperienciaLaboral(partitionKey, rowKey);
+        if (eliminado)
+        {
+            await SweetAlertService.FireAsync("Éxito", "ha sido eliminada correctamente", SweetAlertIcon.Success);
+            // Actualizamos la lista de instituciones después de eliminar
+            await OnInitializedAsync();
+        }
+        else
+        {
+            await SweetAlertService.FireAsync("Error", "No se pudo eliminar", SweetAlertIcon.Error);
+        }
+    }
+
+    private void Editar(string rowKey)
+    {
+        // Redirigir a la página de edición de institución con el ID de la institución a editar
+        nav.NavigateTo($"/editar-explaboral/{rowKey}");
+    }
+}
